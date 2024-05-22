@@ -7,7 +7,9 @@ This repository contains the implementation of quantum algorithms for portfolio 
 Features:
 
 Quantum Algorithm Implementations: Includes implementations of QAOA and VQE specifically tailored for portfolio optimization.
+
 Comparison with Classical Methods: Provides benchmark comparisons between quantum algorithms and traditional methods like the Markowitz portfolio theory.
+
 Simulation Environment: Utilizes IBM's Qiskit framework for running simulations on both quantum simulators and available quantum hardware.
 
 
